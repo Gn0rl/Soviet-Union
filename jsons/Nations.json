@@ -12,5 +12,5 @@
     "cities": ["Moscow","Leningrad","Stalingrad","Kuibishev","Kiev","Omsk","Baku","Harkow","Minsk","Gorkiy","Novosibirsk",
     "Sverdlovsk","Tbilisi","Dnepropetrovsk","Tashkent","Murmansk","Vladiwostok","Vladimir", "Nizhny Novgorod", "Velikiy Novgorod", "Ryazan", "Novgorod", "Simpheropol", "Sevastopol"],
 
-    "uniques": ["[-1 Faith] per [2] population [in all cities]", "Starts with [Mining]", "[+1 Production] per [1] population [in all cities]"]
+    "uniques": ["[-1 Faith] per [2] population [in all cities]", "Starts with [Mining]", "[+50]% [Production] [in all cities]"]
 }]
