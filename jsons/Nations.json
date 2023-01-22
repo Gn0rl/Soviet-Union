@@ -1,0 +1,16 @@
+[{
+    "name":"Soviet Union",
+    "leaderName": "Stalin",
+    "startBias": ["Tundra"],
+
+    "startIntroPart1": "You are the head of the CPSU",
+	"startIntroPart2": "Promote your nation to true socialism, do not let the bourgeoisie take over the whole world!!!",
+
+    "outerColor": [51, 0, 0],
+    "innerColor": [178, 63, 63],
+
+    "cities": ["Moscow","Leningrad","Stalingrad","Kuibishev","Kiev","Omsk","Baku","Harkow","Minsk","Gorkiy","Novosibirsk",
+    "Sverdlovsk","Tbilisi","Dnepropetrovsk","Tashkent","Murmansk","Vladiwostok","Vladimir", "Nizhny Novgorod", "Velikiy Novgorod", "Ryazan", "Novgorod", "Simpheropol", "Sevastopol"],
+
+    "uniques": ["[-1 Faith] per [2] population [in all cities]", "Starts with [Mining]", "[+1 Production] per [1] population [in all cities]"]
+}]

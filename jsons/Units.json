@@ -1,0 +1,15 @@
+[
+    {
+		"name": "T-34",
+        "uniqueTo": "Soviet Union",
+        "replaces": "Tank",
+		"unitType": "Armored",
+		"movement": 7,
+		"strength": 80,
+		"cost": 385,
+		"requiredTech": "Combined Arms",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	}
+]
