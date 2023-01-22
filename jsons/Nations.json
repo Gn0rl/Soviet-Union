@@ -12,5 +12,21 @@
     "cities": ["Moscow","Leningrad","Stalingrad","Kuibishev","Kiev","Omsk","Baku","Harkow","Minsk","Gorkiy","Novosibirsk",
     "Sverdlovsk","Tbilisi","Dnepropetrovsk","Tashkent","Murmansk","Vladiwostok","Vladimir", "Nizhny Novgorod", "Velikiy Novgorod", "Ryazan", "Novgorod", "Simpheropol", "Sevastopol"],
 
-    "uniques": ["[-1 Faith] per [2] population [in all cities]", "Starts with [Mining]", "[+50]% [Production] [in all cities]"]
+    "uniques": ["[-1 Faith] per [4] population [in all cities]", "Starts with [Mining]", "[+1 Production] per [3] population [in all cities]"]
+},
+{
+    "name":"Israel",
+    "leaderName": "Isaac Hersog",
+    "startBias": ["Desert"],
+
+    "startIntroPart1": "You president of Israel",
+    "startIntroPart2": "Judaism is the only true way, promote it to the whole world and do not believe heretics",
+
+    "outerColor": [51, 0, 0],
+    "innerColor": [255, 255, 255],
+
+    "cities": ["Jerusalem","Tel Aviv-Yafo","Haifa","Rishon LeZion","Petah Tikva","Ashdod","Netanya","Beersheba","Bnei Brak","Holon","Ramat Gan",
+    "Ashkelon","Rehovot","Bat Yam","Beit Shemesh","Kfar Saba","Herzliya","Hadera", "Modi'in-Maccabim-Re'ut", "Nazareth", "Lod", "Ramla", "Ra'anana", "Rahat"],
+
+    "uniques": ["[+1 Faith] per [2] population [in all cities]", "[-50]% [Culture]"]
 }]
