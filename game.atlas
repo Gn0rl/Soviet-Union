@@ -11,16 +11,23 @@ BuildingIcons/St. Basil's Cathedral
   orig: 256, 256
   offset: 0, 0
   index: -1
-NationIcons/Soviet Union
+NationIcons/Israel
   rotate: false
   xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/T-34
+NationIcons/Soviet Union
   rotate: false
   xy: 268, 268
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/T-34
+  rotate: false
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
