@@ -1,22 +1,21 @@
 [
     {
-		"name": "St. Basil's Cathedral",
-		"culture": 2,
+	"name": "St. Basil's Cathedral",
+	"culture": 2,
         "faith": 5,
-		"greatPersonPoints": {"Great Prophet": 2},
-		"isWonder": true,
-		"uniques": ["[+1 Faith] per [2] population [in all cities]"],
-		"requiredTech": "Architecture",
-		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
+	"greatPersonPoints": {"Great Prophet": 2},
+	"isWonder": true,
+	"uniques": ["[+1 Faith] per [2] population [in all cities]"],
+	"requiredTech": "Architecture",
     },
-    	{
-		"name":"Casino",
-		"replaces": "Bank",
-		"uniqueTo":"Israel",
-		"isWonder": false,
-		"gold":10,
-		"percentStatBonus": {"gold": 10},
-		"requiredTech": "Pottery",
-		"uniques": ["[+1 Faith] per [5] population [in this city]"]
-	}
+    {
+	"name":"Casino",
+	"replaces": "Bank",
+	"uniqueTo":"Israel",
+	"isWonder": false,
+	"gold":10,
+	"percentStatBonus": {"gold": 10},
+	"requiredTech": "Banking",
+	"uniques": ["[+1 Faith] per [5] population [in this city]"]
+}
 ]
